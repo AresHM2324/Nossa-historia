@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 // troca 'nossa-linha-do-tempo' pelo NOME EXATO do teu repositório no GitHub.
 // Ex: se o repo for github.com/teu-user/historia-da-gente, coloca '/historia-da-gente/'
 export default defineConfig({
-  base: '/nossa-linha-do-tempo/',
+  base: '/nossa-historia/',
   plugins: [react()],
 })
